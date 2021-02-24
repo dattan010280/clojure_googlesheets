@@ -11,3 +11,4 @@ pom.xml.asc
 /.prepl-port
 .hgignore
 .hg/
+/resource/gmavenproject-931d7910422a.json

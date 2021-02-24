@@ -19,6 +19,7 @@
 
 (def application-name "Playcards")
 
+;change filename to yours for oauth google api
 (def credentials-resource (io/resource "gmavenproject-931d7910422a.json"))
 
 (def oauth-scope "https://spreadsheets.google.com/feeds")
