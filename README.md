@@ -21,6 +21,7 @@
 
 2- Google sheet sample link: https://docs.google.com/spreadsheets/d/1KWG2TT5eupJpzOL4tZq_gGMcT6rTQPlojRLvR15Kc9k/edit#gid=0
 + Content of google sheet is got from the first lesson (playcards)
++ This one is shared to everyone.
 + If you want to change to another google sheet with same format as above sample, let go to core.clj, line 91, edit "Playcards" to your google sheet name.
 
 3- Script is using in-memory database, so database will be create once runing script. If you want to make sure database working well after running scrip, let go to last line and uncomment following
