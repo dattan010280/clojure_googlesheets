@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gmavenproject",
+  "private_key_id": "041db3d758a1a7ef94c9c59fb3bccd2fcca41eb8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\n...\n-----END PRIVATE KEY-----\n",
+  "client_email": "clojureserviceaccount@gmavenproject.iam.gserviceaccount.com",
+  "client_id": "106215031907469115769",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/clojureserviceaccount%40gmavenproject.iam.gserviceaccount.com"
+}
