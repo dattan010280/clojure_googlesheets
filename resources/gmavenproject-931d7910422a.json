@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gmavenproject",
+  "private_key_id": "931d7910422af5313fea11563f7b9c154a14b590",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0FdZtDudasabB\nM9zNtB6d2WUUg9Bu700ahqWc0XaXbcjpPVc42fEYv+0ocxUFUbcD7bSHJDCb90TW\ntVBjk9U2195JH4+Oz6hi3Xrq+hQfxVPyGKlkxcJbOQOKKPDJUokNOWVZVyCKTf/+\nINjvAgfRL/4HQm4B0QuAa3dAak6sTUzTBjIskV8Olv4SswJC9a96ZNEbLFd0So/y\nHEYGbr6X/sLbmJxNrXjXtXejhTAHKWkGMeH5WgIMxR7sz6RL98owR65l1UYA5QTk\nCT19Z147lUp92yUFiOJ4XNRdvoM9DbTmrwUJkd35q1xnnRiT9E/0CZjsDPfWBCt2\n+Jkyh//pAgMBAAECggEAEfQmZUeJ2bEh6JuYzRpCviZ1DRtKHbE2XOllG/IHEnhD\nwjsXFcgmoPrLdE+q3hWkOxxI9fst7HK1tnkrm03bASV62AvxNkHuLfMaRNBrTrKP\n2LBMPQt5Qbp4p57GyK91ke+xsrs8t4Uouyd/sS5g5KJV/1fIW16BuMsd/7pJfyRn\nrpkI6+ruhXMLE0bPEy2gIqxpmRhGxU05ZwaVXKJ84rbD1R9IIlhGZV5LPT6Rpld8\nDuhg1xMJXwDd2W1c/YK5J9rnAlmorGIBCh1Ma5lewQFfvS2BqmVlwyN4Chs7IUuR\nOsmN7bk48RSI2fE5KiuoI6Eq+i948iexnVncX4N3wQKBgQDvTGGegoybybz4Slkm\nyam5wnHa8I5tb+T4xrupz86DS4vWPrc74WdkutsXhOneXQoJKkICH/5VQk2rjwfj\nvHpQz19jLKTaheUD6S6EiKmpEJWKtWBgcppdW4X/L6oRy6gtUADCanZ7hGUr9lrm\nLvXbnsoDnyDvStSQHeRU20mEIQKBgQDAp3pePhIHKi+zeFP3ZBJ/htBiI8PbSDC1\nH5qfUdpYqDIO2g6rerStdlNaWT+1MC97WVQ8sNH5kJiznypTUYvO1GHAQekAXgdD\n4wxiHW3aN/kHoSvVb3rmYOXK/+71AycS6apD3UqXaM5CIjUntkXDBudDwCfjI+ih\nHZplGecCyQKBgHe1nSwfoNmaXUdUYi7uOVLtO+nL52RF0qTFPkIf6+5wj37ZFu8E\nvqV8eHfWjOwpXQjis+y+NoxOQ+6r+cVql0Hvy4cgYUPUMZH4R8YTW9RwsG6Yd6Mo\nEaLcUzcqkAig+fvZBtg7TBRUUgxhDG4UVffNAsA3DdHHfHiwC3aL0MYhAoGAAcFE\nzxj3pxMOTi85bJZ/yKOcwFgdD6FPuEaqbOsc9xPJKPN5kLxUawQZ7EfF2cuvkwsU\nRl1B/GkByxkXFJ04jdDHdy3ihntUy5yE31vvRT6fSR+Bu7cBQpn9XeUI8zhtIbH5\nOBcK9+gfgOC45Ty20/j7IFXexyXrl5QidOtQfGkCgYEAoBtcGmluHqidrrlZgzVk\nKsULRiWqVZs4oBA+oX6LvurcuoiRyp8JxOIjLdQKzXbsTgfw8loWTohTS13UFzgE\n9waIQaAAHnzLeFlHPa4SFRAwUtVfFsVbJRnFk9rxlLiZGjGE+asQ71f0KDUVgfF1\nYmV7oqeaC/09P/HEAPZHGoU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "clojureserviceaccount@gmavenproject.iam.gserviceaccount.com",
+  "client_id": "109032321137060959409",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/clojureserviceaccount%40gmavenproject.iam.gserviceaccount.com"
+}
